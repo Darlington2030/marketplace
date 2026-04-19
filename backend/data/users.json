@@ -1,0 +1,58 @@
+[
+  {
+    "id": "user1",
+    "name": "ComicCollector",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "lastLogin": "2026-04-18T22:07:50.860Z"
+  },
+  {
+    "id": "user2",
+    "name": "ToyTrader",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "lastLogin": "2025-04-11T09:30:00.000Z"
+  },
+  {
+    "id": "user3",
+    "name": "CardMaster",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "createdAt": "2025-01-01T00:00:00.000Z",
+    "lastLogin": "2025-04-12T14:00:00.000Z"
+  },
+  {
+    "id": "98a7abed-1c61-4644-b855-566a6c3a6cdc",
+    "name": "NewBuyer2025",
+    "password": "ea71c25a7a602246b4c39824b855678894a96f43bb9b71319c39700a1e045222",
+    "createdAt": "2026-04-18T07:34:18.027Z",
+    "lastLogin": "2026-04-18T07:34:18.027Z"
+  },
+  {
+    "id": "1ebdd9c2-8057-41c6-98ae-e371173f704f",
+    "name": "FreshUser2025",
+    "password": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090",
+    "createdAt": "2026-04-18T12:15:55.409Z",
+    "lastLogin": "2026-04-18T12:15:55.409Z"
+  },
+  {
+    "id": "4a3e9627-4fb1-4257-8c49-e8681b4997ad",
+    "name": "BrandNewUser",
+    "password": "d3e7a43b77df225d68bb0dfe0e728beac519da414e0fee4e4f5a886008ad2715",
+    "createdAt": "2026-04-18T17:17:41.510Z",
+    "lastLogin": "2026-04-18T17:17:41.510Z"
+  },
+  {
+    "id": "754c7cff-84fe-4527-b721-2300d3a48085",
+    "name": "TestUser_$(date +%s)",
+    "password": "9b8769a4a742959a2d0298c36fb70623f2dfacda8436237df08d8dfd5b37374c",
+    "createdAt": "2026-04-18T22:07:50.956Z",
+    "lastLogin": "2026-04-18T22:07:50.956Z"
+  },
+  {
+    "id": "a7ba08e6-e80f-49d7-a0dc-b370736bd0d6",
+    "name": "malobadarlington@gmail.com",
+    "password": "4db0e6ad464be61f3988de3c29cf8c252b0d8fd53c30c401b7842a71bc066468",
+    "createdAt": "2026-04-19T08:12:35.706Z",
+    "lastLogin": "2026-04-19T08:12:35.706Z"
+  }
+]

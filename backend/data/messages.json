@@ -1,0 +1,156 @@
+[
+  {
+    "id": "msg1",
+    "itemId": "1",
+    "senderId": "user2",
+    "senderName": "ToyTrader",
+    "content": "Is this comic still available?",
+    "type": "text",
+    "price": null,
+    "originalPrice": null,
+    "status": null,
+    "timestamp": "2025-04-10T11:00:00.000Z",
+    "readBy": [
+      "user2"
+    ]
+  },
+  {
+    "id": "msg2",
+    "itemId": "1",
+    "senderId": "user1",
+    "senderName": "ComicCollector",
+    "content": "Yes it is! CGC 9.8 condition. Very rare.",
+    "type": "text",
+    "price": null,
+    "originalPrice": null,
+    "status": null,
+    "timestamp": "2025-04-10T11:05:00.000Z",
+    "readBy": [
+      "user1"
+    ]
+  },
+  {
+    "id": "msg3",
+    "itemId": "1",
+    "senderId": "user2",
+    "senderName": "ToyTrader",
+    "content": "Offer: $450",
+    "type": "offer",
+    "price": 450,
+    "originalPrice": 500,
+    "status": "pending",
+    "timestamp": "2025-04-10T11:10:00.000Z",
+    "readBy": [
+      "user2"
+    ]
+  },
+  {
+    "id": "d9133bd5-58a8-4e40-9db7-360c58ae3fe7",
+    "itemId": "2",
+    "senderId": "user1",
+    "senderName": "ComicCollector",
+    "content": "Is the Batman Funko still available?",
+    "type": "text",
+    "price": null,
+    "originalPrice": null,
+    "status": null,
+    "timestamp": "2026-04-18T17:17:41.720Z",
+    "readBy": [
+      "user1"
+    ]
+  },
+  {
+    "id": "e058aece-9ae5-438f-bdbd-39d51d19384b",
+    "itemId": "3",
+    "senderId": "user1",
+    "senderName": "ComicCollector",
+    "content": "Offer: $1000",
+    "type": "offer",
+    "price": 1000,
+    "originalPrice": 1200,
+    "status": "pending",
+    "timestamp": "2026-04-18T17:17:41.822Z",
+    "readBy": [
+      "user1"
+    ]
+  },
+  {
+    "id": "302521eb-3982-4206-810e-1638c057d2f9",
+    "itemId": "1",
+    "senderId": "user2",
+    "senderName": "ToyTrader",
+    "content": "Hey, is this still available?",
+    "type": "text",
+    "price": null,
+    "originalPrice": null,
+    "status": null,
+    "timestamp": "2026-04-18T22:07:51.160Z",
+    "readBy": [
+      "user2"
+    ]
+  },
+  {
+    "id": "28bc6b78-eea6-4c5f-beb7-1c9c4e3db945",
+    "itemId": "fb674d02-40c2-4ceb-a733-041079061cb8",
+    "senderId": "c94a67b4-7509-45b9-8788-1ceec3c469d1",
+    "senderName": "maloba",
+    "content": "Hello",
+    "type": "text",
+    "price": null,
+    "originalPrice": null,
+    "status": null,
+    "timestamp": "2026-04-19T08:14:30.345Z",
+    "readBy": [
+      "c94a67b4-7509-45b9-8788-1ceec3c469d1",
+      "a7ba08e6-e80f-49d7-a0dc-b370736bd0d6"
+    ]
+  },
+  {
+    "id": "373a3085-0c8a-42a4-b139-24217b02f644",
+    "itemId": "fb674d02-40c2-4ceb-a733-041079061cb8",
+    "senderId": "a7ba08e6-e80f-49d7-a0dc-b370736bd0d6",
+    "senderName": "malobadarlington@gmail.com",
+    "content": "Hi",
+    "type": "text",
+    "price": null,
+    "originalPrice": null,
+    "status": null,
+    "timestamp": "2026-04-19T08:14:44.259Z",
+    "readBy": [
+      "a7ba08e6-e80f-49d7-a0dc-b370736bd0d6",
+      "c94a67b4-7509-45b9-8788-1ceec3c469d1"
+    ]
+  },
+  {
+    "id": "d860b9ef-0d51-41c1-8765-655395cae4ad",
+    "itemId": "fb674d02-40c2-4ceb-a733-041079061cb8",
+    "senderId": "c94a67b4-7509-45b9-8788-1ceec3c469d1",
+    "senderName": "maloba",
+    "content": "How much is this bag.I want it",
+    "type": "text",
+    "price": null,
+    "originalPrice": null,
+    "status": null,
+    "timestamp": "2026-04-19T08:15:57.928Z",
+    "readBy": [
+      "c94a67b4-7509-45b9-8788-1ceec3c469d1",
+      "a7ba08e6-e80f-49d7-a0dc-b370736bd0d6"
+    ]
+  },
+  {
+    "id": "70a17444-9d30-496b-a2d2-79a44662deb8",
+    "itemId": "fb674d02-40c2-4ceb-a733-041079061cb8",
+    "senderId": "a7ba08e6-e80f-49d7-a0dc-b370736bd0d6",
+    "senderName": "malobadarlington@gmail.com",
+    "content": "$50 where are you located?",
+    "type": "text",
+    "price": null,
+    "originalPrice": null,
+    "status": null,
+    "timestamp": "2026-04-19T08:16:43.531Z",
+    "readBy": [
+      "a7ba08e6-e80f-49d7-a0dc-b370736bd0d6",
+      "c94a67b4-7509-45b9-8788-1ceec3c469d1"
+    ]
+  }
+]

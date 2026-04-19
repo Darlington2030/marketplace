@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "name": "Vintage Comic Book — Spider-Man #1",
+    "description": "Rare collectible comic in mint condition, never opened. First appearance of Spider-Man in his own series. CGC graded 9.8.",
+    "price": 500,
+    "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?w=600",
+    "sellerId": "user1",
+    "sellerName": "ComicCollector",
+    "status": "active",
+    "highestOffer": null,
+    "highestOfferBuyer": null,
+    "createdAt": "2025-04-10T10:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "name": "Limited Edition Funko Pop — Batman Dark Knight",
+    "description": "Rare convention exclusive, still in original box with holographic sticker. Only 500 made worldwide.",
+    "price": 150,
+    "image": "https://images.unsplash.com/photo-1618160702438-9b02ab6515c9?w=600",
+    "sellerId": "user2",
+    "sellerName": "ToyTrader",
+    "status": "active",
+    "highestOffer": 120,
+    "highestOfferBuyer": "user3",
+    "createdAt": "2025-04-11T09:30:00.000Z"
+  },
+  {
+    "id": "3",
+    "name": "Pokémon Card — Charizard 1st Edition Holo",
+    "description": "First edition base set Charizard in excellent condition. PSA graded 9. One of the most iconic cards in existence.",
+    "price": 1200,
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=600",
+    "sellerId": "user3",
+    "sellerName": "CardMaster",
+    "status": "active",
+    "highestOffer": null,
+    "highestOfferBuyer": null,
+    "createdAt": "2025-04-12T14:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "name": "Star Wars Action Figure — Darth Vader 1977",
+    "description": "Original 1977 Kenner release, still sealed in original packaging. Near mint condition. A true piece of cinema history.",
+    "price": 850,
+    "image": "https://images.unsplash.com/photo-1608889476561-6242cfdbf4f2?w=600",
+    "sellerId": "user1",
+    "sellerName": "ComicCollector",
+    "status": "active",
+    "highestOffer": null,
+    "highestOfferBuyer": null,
+    "createdAt": "2025-04-13T08:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "name": "Magic: The Gathering — Black Lotus Alpha",
+    "description": "Alpha edition Black Lotus, the holy grail of MTG cards. Near mint. Has been professionally authenticated.",
+    "price": 3000,
+    "image": "https://images.unsplash.com/photo-1616901826816-7045fc2e8a8d?w=600",
+    "sellerId": "user2",
+    "sellerName": "ToyTrader",
+    "status": "active",
+    "highestOffer": 2700,
+    "highestOfferBuyer": "user1",
+    "createdAt": "2025-04-14T11:00:00.000Z"
+  },
+  {
+    "id": "6",
+    "name": "Vintage LEGO Space Set — Galaxy Explorer",
+    "description": "Complete 1979 LEGO 497 Galaxy Explorer set, all original pieces. Instructions included. Iconic golden age of LEGO.",
+    "price": 320,
+    "image": "https://images.unsplash.com/photo-1581235725079-7c7783e6a2df?w=600",
+    "sellerId": "user3",
+    "sellerName": "CardMaster",
+    "status": "active",
+    "highestOffer": null,
+    "highestOfferBuyer": null,
+    "createdAt": "2025-04-15T16:00:00.000Z"
+  },
+  {
+    "id": "fb674d02-40c2-4ceb-a733-041079061cb8",
+    "name": "Bag test",
+    "description": "Get yourself this amazing unique bag in just one click",
+    "price": 50,
+    "image": "data:image/jpeg;base64,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",
+    "sellerId": "a7ba08e6-e80f-49d7-a0dc-b370736bd0d6",
+    "sellerName": "malobadarlington@gmail.com",
+    "status": "active",
+    "highestOffer": null,
+    "highestOfferBuyer": null,
+    "createdAt": "2026-04-19T08:13:43.465Z"
+  }
+]
